@@ -19,7 +19,7 @@ Generate 4hz Tone In A Browser:
 Download As A .WAV File:
 <br>
 
-[Download As A .WAV File](https://github.com/amritabithi/Block-Silent-Speech/blob/main/mute_silent_speech.wav)
+[mute_silent_speech.wav](https://github.com/amritabithi/Block-Silent-Speech/blob/main/mute_silent_speech.wav)
 <br>
 
 <br>
