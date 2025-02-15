@@ -28,6 +28,6 @@ Blocking the use of "silent speech" communications.
 **Linux Command Line With speaker-test:**
 <br>
 ```
-speaker-test -f 4 -r 4 -t sine -X
+speaker-test -f 4 -r 4 -t sine -X -l 0
 ```
 
