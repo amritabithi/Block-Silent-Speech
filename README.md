@@ -3,7 +3,7 @@ Blocking the use of "silent speech" communications.
 <br>
 <br>
 
-#### Playing a 4hz tone can have a muting effect on "silent speech" devices.
+#### Playing a 4hz tone can have a muting effect on [silent speech](https://en.wikipedia.org/wiki/Subvocal_recognition) devices.
 
 <br>
 <br>
