@@ -1,4 +1,4 @@
-<br>
+
 
 # Block Silent Speech
 Blocking the use of "silent speech" communications.
@@ -22,4 +22,4 @@ Linux Command Line With speaker-test:
 ```
 speaker-test -f 4 -r 4 -t sine -X
 ```
-<br>
+
