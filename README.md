@@ -16,6 +16,14 @@ Generate 4hz Tone In A Browser:
 
 <br>
 <br>
+Download As A .WAV File:
+<br>
+
+[Download As A .WAV File](https://github.com/amritabithi/Block-Silent-Speech/blob/main/mute_silent_speech.wav)
+<br>
+
+<br>
+<br>
 Linux Command Line With speaker-test:
 <br>
 
