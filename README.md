@@ -11,14 +11,12 @@ Blocking the use of "silent speech" communications.
 
 ***Generate 4hz Tone In A Browser:***
 <br>
-[Online Tone Generator](https://szynalski.com/tone#4,v0.5)
-
+<a href="https://szynalski.com/tone#4,v0.5" target="_blank">Online Tone Generator</a>
 <br>
 
 ***Download 'mute-silent-speech.wav' as a .wav file:***
 <br>
-[mute-silent-speech.wav](https://github.com/amritabithi/Block-Silent-Speech/blob/main/mute-silent-speech.wav)
-
+<a href="https://github.com/amritabithi/Block-Silent-Speech/blob/main/mute-silent-speech.wav">mute-silent-speech.wav</a>
 <br>
 
 ***Linux Command Line With speaker-test:***
@@ -34,6 +32,6 @@ speaker-test -f 4 -r 4 -t sine -X
 
 ***Download 'lower-feedback.wav' as a .wav file:***
 <br>
-[lower-feedback.wav](https://github.com/amritabithi/Block-Silent-Speech/blob/main/lower-feedback.wav)
+<a href="https://github.com/amritabithi/Block-Silent-Speech/blob/main/lower-feedback.wav" target="_blank">lower-feedback.wav</a>
 <hr>
 <br>
