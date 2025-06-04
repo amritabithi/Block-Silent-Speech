@@ -35,7 +35,7 @@ speaker-test -f 4 -r 4 -t sine -X
 ```
 <hr>
 <br>
-
+<br>
 
 ### A descending tone can help to reduce high-pitched feedback by guiding the tone lower via predictive algorithms used in the transceiver's software:
 <br>
