@@ -7,7 +7,7 @@ Blocking the use of "silent speech" communications.
 
 ### Playing a sweeping tone, in this case a sine wave moving from 1 to 17 hz can confuse silent/whispered speech recognition software:
 ```
-play -V0 -n synth 0.5 sine 1:17 synth 0.5 sine 17:1 synth 0.5 sine 1 repeat 100000
+play -V0 -n synth 1 sine 1:17 synth 1 sine 17:1 synth 0.5 sine 1 repeat 100000
 ```
 <br>
 <br>
